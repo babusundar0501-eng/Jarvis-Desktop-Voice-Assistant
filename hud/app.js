@@ -1,0 +1,1 @@
+const s=document.getElementById("status"),b=document.getElementById("activate");b.onclick=()=>{s.textContent="SYSTEM ONLINE";b.textContent="ULTRON ACTIVE";};
